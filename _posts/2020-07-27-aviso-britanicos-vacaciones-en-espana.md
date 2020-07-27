@@ -1,5 +1,5 @@
 ---
-title: Aviso a britanicos que viajan a España: conoce tus derechos 
+title: Aviso a britanicos que viajan a España, conoce tus derechos 
 tags: noticias, inglaterra, reino unido, turismo, españa, coronavirus, covid-19
 author: Freddie Ventura 
 show_author_profile: true
