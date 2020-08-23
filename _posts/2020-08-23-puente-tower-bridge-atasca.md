@@ -15,7 +15,7 @@ Segun describe un via andante, es un fallo inedito en el sistema electro-hidraul
 Poco mas tarde de las 17:00 del Sabado, el cuerpo policial de la City of London informo por Twitter que el puente iba a permanecer cerrado para el trafico y peatones. "Los ingenieros estan trabajando concienzudamente para arreglar el puente. Por favor encuentren otras rutas para su viaje".
 Los atascos se sucedieron tras esta clausura y todavia a medio-dia del Domingo permanece cerrado al trafico por cautela, pero los peatones y ciclistas ya pueden circular por el.
 
-![El puente de Tower Bridge se Atasca al plegarse](/images/puente-tower-bridge-atasca-01.jpg "El Puente de Tower Bridge")
+![El puente de Tower Bridge se Atasca al plegarse](/images/puente-tower-bridge-atasca-02.jpg "El Puente de Tower Bridge")
 
 
 
