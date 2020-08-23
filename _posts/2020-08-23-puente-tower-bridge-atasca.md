@@ -4,8 +4,8 @@ tags: noticias, londres, puente, tower bridge, tamesis
 author: Freddie Ventura
 show_auto_profile: true
 article_header:
- type: cover
-image:
+  type: cover
+  image:
     src: /images/puente-tower-bridge-atasca-01.jpg
 ---
 
